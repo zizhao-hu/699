@@ -14,7 +14,7 @@ This repository provides an implementation and tools to ensure personalized ethi
 
 1. Clone the repository:
 \```
-git clone https://github.com/your-repo-link/personalized-ethical-alignment.git
+git clone https://github.com/zizhao-hu/699.git
 \```
 2. Navigate to the project directory:
 \```
