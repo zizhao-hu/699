@@ -1,6 +1,6 @@
 # Personalized Ethical Alignment in LLMs: Tailoring Question Answering For Different Age Groups
 
-This repository provides an implementation and tools to ensure personalized ethical alignment in large language models (LLMs), specifically tailored for different age groups. The goal is to evaluate the performance of LLMs for various age groups and understand their behavior in terms of ethics and appropriateness.
+This repository provides an implementation and tools to ensure personalized ethical alignment in large language models (LLMs), specifically tailored for different age groups. The goal is to evaluate the performance of LoRA and prompt engineering on LLMs for various age groups and understand their behavior in terms of ethics and appropriateness.
 
 ## Table of Contents
 
