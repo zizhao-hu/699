@@ -47,7 +47,6 @@ pip install -r requirements.txt
      ```
 
 ## File Structure
-
 ```
 .
 ├── baseline.py
