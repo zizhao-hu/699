@@ -1,7 +1,7 @@
 import openai
 
 # Initialize the OpenAI API
-openai.api_key = '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'
+openai.api_key = 'api-key'
 
 def evaluate_answer_with_gpt4(question, answer):
     # Define the prompt for suitability for the age group
