@@ -58,15 +58,3 @@ pip install -r requirements.txt
 ├── lora_llama_adult.py
 └── requirements.txt
 \```
-
-## Contributing
-
-We welcome contributions! If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-For any additional information or queries, please open an issue in the repository or contact the maintainers.
